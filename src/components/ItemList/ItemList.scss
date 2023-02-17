@@ -1,0 +1,17 @@
+.item-wrapper{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;;
+  flex-wrap: wrap;
+
+  &--cart{
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    // flex-direction: column;
+    gap: 10px;
+    // max-width: 350px;
+    flex-wrap: wrap;
+  }
+}

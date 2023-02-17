@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Numark PT01 Touring",
+    "price": "$1000",
+    "img": "https://content.rozetka.com.ua/goods/images/original/251635967.jpg",
+    "article": "001",
+    "color": "black"
+  },
+  {
+    "name": "Audio-Technica AT-LP60X",
+    "price": "$1500",
+    "img": "https://content1.rozetka.com.ua/goods/images/original/76190462.jpg",
+    "article": "002",
+    "color": "grey"
+  },
+  {
+    "name": "Lenco TT-10BN",
+    "price": "$1700",
+    "img": "https://content2.rozetka.com.ua/goods/images/original/229034472.jpg",
+    "article": "003",
+    "color": "brown"
+  },
+  {
+    "name": "Lenco LS-10 Black",
+    "price": "$1300",
+    "img": "https://content1.rozetka.com.ua/goods/images/original/243850076.jpg",
+    "article": "004",
+    "color": "black-grey"
+  },
+  {
+    "name": "Jam HX-TT400-BKA",
+    "price": "$1450",
+    "img": "https://content2.rozetka.com.ua/goods/images/original/281918340.jpg",
+    "article": "005",
+    "color": "black-white"
+  },
+  {
+    "name": "Lenco LS-410WA",
+    "price": "$1500",
+    "img": "https://content.rozetka.com.ua/goods/images/original/285464940.jpg",
+    "article": "006",
+    "color": "brown"
+  },
+  {
+    "name": "Pro-Ject Primary",
+    "price": "$3500",
+    "img": "https://content2.rozetka.com.ua/goods/images/original/70718349.jpg",
+    "article": "007",
+    "color": "black"
+  },
+  {
+    "name": "AUDIO-TECHNICA",
+    "price": "$3700",
+    "img": "https://content1.rozetka.com.ua/goods/images/original/243531467.jpg",
+    "article": "008",
+    "color": "grey"
+  },
+  {
+    "name": "Lenco LS-50WD",
+    "price": "$1750",
+    "img": "https://content.rozetka.com.ua/goods/images/original/229031029.jpg",
+    "article": "009",
+    "color": "brown"
+  },
+  {
+    "name": "Pro-Ject T1 BT",
+    "price": "$1800",
+    "img": "https://content1.rozetka.com.ua/goods/images/original/143610376.jpg",
+    "article": "010",
+    "color": "brown"
+  },
+  {
+    "name": "Numark PT01 Scratch",
+    "price": "$1110",
+    "img": "https://content2.rozetka.com.ua/goods/images/original/11315825.jpg",
+    "article": "011",
+    "color": "red-black"
+  },
+  {
+    "name": "Audio-Technica AT-LP3WH",
+    "price": "$2700",
+    "img": "https://content.rozetka.com.ua/goods/images/original/52545550.jpg",
+    "article": "012",
+    "color": "white"
+  }
+]

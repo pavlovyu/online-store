@@ -1,0 +1,9 @@
+@import url('./styles/styles.scss');
+
+body {
+    background-image: url("../src/components/Header/icons/page-background.webp");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

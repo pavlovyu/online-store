@@ -1,0 +1,8 @@
+@import url('./container.scss');
+
+.container{
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 1250px;
+	padding: 0 17px 0 17px ;
+}
